@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "https://api.zeromesto.nomoredomains.work";
 
 function request(url, options) {
   const fetchAddress = `${BASE_URL}/${url}`;
