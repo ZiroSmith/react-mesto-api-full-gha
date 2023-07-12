@@ -1,0 +1,14 @@
+.register__link {
+    text-align: center;
+    margin-top: 32px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+    padding: 0;
+    min-height: 50px;
+}

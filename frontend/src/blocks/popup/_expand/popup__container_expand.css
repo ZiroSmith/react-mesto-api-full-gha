@@ -1,0 +1,5 @@
+.popup__container_expand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

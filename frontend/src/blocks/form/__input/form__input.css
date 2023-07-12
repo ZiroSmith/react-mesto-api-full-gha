@@ -1,0 +1,35 @@
+.form__input {
+  border: none;
+  width: 358px;
+  border-bottom: 1px solid rgb(0,0,0, 0.2);
+  box-sizing: border-box;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 27px 36px 5px;
+  padding: 0 0 8px;
+}
+
+@media screen and (max-width: 767px) {
+  .form__input {
+    max-width: 238px;
+    margin: 32px 22px 0;
+    padding: 0 0 8px;
+  }
+}
+
+
+.form__input_type_error {
+  border-bottom-color: #FF0000;
+  } 
+
+.form__input-error {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+  position: absolute;
+  left: 36px;
+  transition: 0.3s;
+}

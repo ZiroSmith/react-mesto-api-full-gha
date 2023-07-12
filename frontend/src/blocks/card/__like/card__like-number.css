@@ -1,0 +1,14 @@
+.card__like-number {
+    display: block;
+    min-width: 10px;
+    min-height: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+    justify-self: center;
+    margin: 0;
+    padding: 0;
+  }

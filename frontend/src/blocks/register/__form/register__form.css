@@ -1,0 +1,8 @@
+.register__form {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    max-width: 358px;
+}

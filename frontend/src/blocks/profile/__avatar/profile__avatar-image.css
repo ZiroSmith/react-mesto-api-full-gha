@@ -1,0 +1,6 @@
+.profile__avatar-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  z-index: 5;
+}
