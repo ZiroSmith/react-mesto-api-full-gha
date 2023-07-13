@@ -16,11 +16,11 @@
 ## Адрес репозитория: https://github.com/ZiroSmith/react-mesto-api-full-gha
 
 ## Ссылки на проект
-### IP 51.250.13.237
+IP 51.250.13.237
 
-### Frontend https://zeromesto.nomoredomains.work/
+Frontend https://zeromesto.nomoredomains.work/
 
-### Backend https://api.zeromesto.nomoredomains.work/
+Backend https://api.zeromesto.nomoredomains.work/
 
 *Всё, что вам нужно для использования - браузер, приятного просмотра!*
 
