@@ -20,7 +20,7 @@
 
 ### Frontend https://zeromesto.nomoredomains.work/
 
-### Backend hhttps://api.zeromesto.nomoredomains.work/
+### Backend https://api.zeromesto.nomoredomains.work/
 
 *Всё, что вам нужно для использования - браузер, приятного просмотра!*
 
